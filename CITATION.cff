@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+- name: "GitHub"
+contact:
+- affiliation: "GitHub"
+  email: policy@github.com
+title: "GitHub Multilingual Repositories Dataset"
+version: 1.0.0
+date-released: 2026-06-15
+license: CC0-1.0
+url: https://github.com/github/multilingual-repositories
+type: dataset
+repository: "https://github.com/github/multilingual-repositories"
+keywords: 
+- "open source"
+- "open data"
+- dataset
+- github
